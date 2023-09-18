@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on practicas
+
 👯 I’m looking to collaborate on migo misma
+
 Languages and Tools:
 c
 java
